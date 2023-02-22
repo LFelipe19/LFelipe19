@@ -20,6 +20,6 @@ Olá, meu nome é Luis Felipe 🦅
 
 
 ## e-mail para contato:
-[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)] lfbarbarini@gmail.com
+lfbarbarini@gmail.com
 
 
