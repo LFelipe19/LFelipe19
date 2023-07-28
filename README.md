@@ -14,9 +14,9 @@ Olá, meu nome é Luis Felipe 🦅
 
 
 
-🍁 Tenho 19 anos e estou Cursando o 2° semestre de Análise e Desenvolvimento de Sistemas na Fatec de Mogi Mirim. 
+🍁 Tenho 20 anos e estou Cursando o 3° semestre de Análise e Desenvolvimento de Sistemas na Fatec de Mogi Mirim. 
 
-🌱 Estudando Linguagem C \ HTML5 e CSS3 \ e pretendo aprender mais.
+🌱 Estudando Linguagem C \ HTML5 e CSS3 \ SQL\ Inglês (Estudo Autodidata) Metas de estudo: Programação Orientada a Objeto, Engenharia de Software, Segurança da Informação.
 
 
 ## e-mail para contato:
